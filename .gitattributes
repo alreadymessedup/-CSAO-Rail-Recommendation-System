@@ -1,0 +1,11 @@
+# Normalize line endings for text files
+* text=auto
+
+# Jupyter notebooks - treat as text, normalize line endings
+*.ipynb text eol=lf
+
+# Python files
+*.py text eol=lf
+
+# Markdown
+*.md text eol=lf
